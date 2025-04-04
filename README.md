@@ -6,11 +6,11 @@ Olá! Sou Arthur Conceição, um universitário de 18 anos cursando Análise e D
 <p align="left">
   <p>
    <a>
-    <a href="">
+    <a href="github.com/4rthurconceicao">
         <img 
-            alt="Seguidores" 
+            alt="" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src=""
         />
     </a>
 </p>

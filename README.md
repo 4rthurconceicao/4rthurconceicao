@@ -4,7 +4,7 @@
 Olá! Sou Arthur Conceição, um universitário de 18 anos cursando Análise e Desenvolvimento de Sistemas. Estou começando minha jornada na área de tecnologia.
 
 <p align="left">
- 
+  <p>
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 

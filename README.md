@@ -56,6 +56,7 @@ Olá! Sou Arthur Conceição, um universitário de 18 anos cursando Análise e D
 <br/>
 
 ### 📊 Estatísticas
+ <p>
   <img  
     align="left"
     alt="GitHub Stats" 
@@ -70,6 +71,6 @@ Olá! Sou Arthur Conceição, um universitário de 18 anos cursando Análise e D
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rthurconceicao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+</p>
 
 

@@ -16,7 +16,7 @@ Olá! Sou Arthur Conceição, um universitário de 18 anos cursando Análise e D
 </p>
 
 ---
-
+*/
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -74,3 +74,4 @@ Olá! Sou Arthur Conceição, um universitário de 18 anos cursando Análise e D
   />
 
 </p>
+/*
